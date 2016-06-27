@@ -1,0 +1,12 @@
+Notes
+- The pageparser class has a constructor that accepts the CNN article URL as an example
+- The parse() function currently separates parts of the article and prints them
+
+Possible future enhancements -
+
+- Separate the parsing and printing in to separate methods
+- Testing on various types of CNN articles with different formats
+- Move the PHP code into a separate file - and leave HTML in HTML - separate the model/view/controller aspects
+- Use camel case or "PHP appropriate" case for variable and function names
+- Specific classes for exception handling and logging
+- Cover the DOM creation and HTML loading part with exceptions
